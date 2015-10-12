@@ -37,6 +37,7 @@
     "connect": "~2.14.4",
     "biguint-format": "~0.2.0",
     "random-name": "~0.1.0",
+    "node": "4.1.2"
     "speakeasy": "~1.0.3",
     "bignumber.js": "~1.3.0",
     "tar": "~0.1.19",
